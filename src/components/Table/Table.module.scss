@@ -1,0 +1,29 @@
+.table{
+    border-collapse:collapse;
+    width: 50%;
+    th{
+        font-weight: 600; 
+    }
+    tr{        
+        border-bottom: .5px solid gray;
+    }
+    th,td{
+        padding: 10px 20px;
+    }
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.boldTxt{
+    font-weight: 600; 
+}
+
+.greyTxt{
+    color: grey;
+}
+
+.redTxt{
+    color: red;
+}

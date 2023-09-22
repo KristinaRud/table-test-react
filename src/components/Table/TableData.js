@@ -1,0 +1,48 @@
+export const data = [
+    {
+      ReferralEvent: 'Purchase',
+      Date: '06/17/2020 at 7:13 PM PDT',
+      Price: '120.00',
+      Advocate: 'autouser23926@gmail...',
+      Friend: 'fr58272@gmail.com',
+      ReferralStatus: 'Pending',
+      Reason:'Passed fraud checks',
+    },
+    {
+      ReferralEvent: 'Purchase',
+      Date: '07/10/2020 at 4:05 AM PDT',
+      Price: '100.00',
+      Advocate: 'ad0379118142@gmail.c..',
+      Friend: 'fr0379118142@gmail.com',
+      ReferralStatus: 'Flagged',
+      Reason:'Marked as fraud',
+      
+    },
+    {
+      ReferralEvent: 'Purchase',
+      Date: '06/09/2020 at 12:42 AM PDT',
+      Price: '28.00',
+      Advocate: 'ad56991@gmail.com',
+      Friend: 'fr94250@gmail.com',
+      ReferralStatus: 'Approved',
+      Reason:'Passed fraud checks',
+    },
+    {
+      ReferralEvent: 'Purchase',
+      Date: '08/07/2020 at 4:20 AM PDT',
+      Price: '100.00',
+      Advocate: 'user.to.be.blocked92187..',
+      Friend: 'user.to.be.blocked2682...',
+      ReferralStatus: 'Blocked',
+      Reason:'Marked as fraud',
+    },
+    {
+      ReferralEvent: 'Purchase',
+      Date: '06/09/2020 at 2:08 AM PDT',
+      Price: '100.00',
+      Advocate: 'ad0693677382@gmail....',
+      Friend: 'fr0693677382@gmail.c..',
+      ReferralStatus: 'Voided',
+      Reason:'Marked as fraud',      
+    },
+  ];
